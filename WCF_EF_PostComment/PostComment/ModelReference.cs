@@ -1,5 +1,4 @@
 ﻿using System.Data.Entity;
-using PostComment.Entities;
 
 namespace PostComment
 {

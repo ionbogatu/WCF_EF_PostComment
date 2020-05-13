@@ -81,7 +81,6 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <EntityDeploy Include="ModelPostComment.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
